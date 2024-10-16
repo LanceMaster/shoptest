@@ -21,6 +21,7 @@ public class BasicController {
         //이런 html를 길어서 안쓰고 resources/static에다가 넣어서 쓸수도 있다.
     }
     //URL를 맘대로 넣을 수 있음
+    //변경사항
 
 
     @GetMapping("/date")
